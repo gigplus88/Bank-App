@@ -1,0 +1,89 @@
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank_Client.FrmLogin.resources
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank Presentation Layer.csproj.GenerateResource.cache
+C:\Users\ayoub\source\repos\Bank Client\bin\Debug\Bank Client.exe.config
+C:\Users\ayoub\source\repos\Bank Client\bin\Debug\Bank Client.exe
+C:\Users\ayoub\source\repos\Bank Client\bin\Debug\Bank Client.pdb
+C:\Users\ayoub\source\repos\Bank Client\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\ayoub\source\repos\Bank Client\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\ayoub\source\repos\Bank Client\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\ayoub\source\repos\Bank Client\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank_Client.Properties.Resources.resources
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank Pre.493F83D3.Up2Date
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank Client.exe
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank Client.pdb
+C:\Users\ayoub\source\repos\Bank Client\obj\Debug\Bank_Client.FrmHome.resources
+C:\Solutions C#\Bank Client\bin\Debug\Bank Client.exe.config
+C:\Solutions C#\Bank Client\bin\Debug\Bank Client.exe
+C:\Solutions C#\Bank Client\bin\Debug\Bank Client.pdb
+C:\Solutions C#\Bank Client\obj\Debug\Bank Presentation Layer.csproj.AssemblyReference.cache
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.FrmHome.resources
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.FrmLogin.resources
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.Properties.Resources.resources
+C:\Solutions C#\Bank Client\obj\Debug\Bank Presentation Layer.csproj.GenerateResource.cache
+C:\Solutions C#\Bank Client\obj\Debug\Bank Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Solutions C#\Bank Client\obj\Debug\Bank Pre.493F83D3.Up2Date
+C:\Solutions C#\Bank Client\obj\Debug\Bank Client.exe
+C:\Solutions C#\Bank Client\obj\Debug\Bank Client.pdb
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.FrmManageClient.resources
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.FrmTransactions.resources
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.UserInfo.resources
+C:\Solutions C#\Bank Client\bin\Debug\Humanizer.dll
+C:\Solutions C#\Bank Client\bin\Debug\Humanizer.xml
+C:\Solutions C#\Bank Client\bin\Debug\af\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\ar\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\az\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\bg\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\cs\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\da\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\de\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\el\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\es\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\fa\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\fr\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\he\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\hr\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\hu\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\id\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\is\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\it\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\ja\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\ko-KR\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\ku\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\lv\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\ms-MY\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\mt\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\nb\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\nl\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\pl\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\pt\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\ro\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\ru\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\sk\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\sl\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\sr\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\sv\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\th-TH\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\tr\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\uk\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\vi\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.FrmManageUsers.resources
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.FrmCurrencyExchange.resources
+C:\Solutions C#\Bank Client\bin\Debug\BusinessLayer.exe
+C:\Solutions C#\Bank Client\bin\Debug\DataAccessLayer.exe
+C:\Solutions C#\Bank Client\bin\Debug\BusinessLayer.pdb
+C:\Solutions C#\Bank Client\bin\Debug\BusinessLayer.exe.config
+C:\Solutions C#\Bank Client\bin\Debug\DataAccessLayer.pdb
+C:\Solutions C#\Bank Client\bin\Debug\DataAccessLayer.exe.config
+C:\Solutions C#\Bank Client\obj\Debug\Bank_Client.FrmTest.resources

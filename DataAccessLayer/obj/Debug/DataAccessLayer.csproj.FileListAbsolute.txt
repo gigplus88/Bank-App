@@ -1,0 +1,9 @@
+C:\Solutions C#\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Solutions C#\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Solutions C#\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Solutions C#\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Solutions C#\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Solutions C#\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Solutions C#\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Solutions C#\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Solutions C#\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

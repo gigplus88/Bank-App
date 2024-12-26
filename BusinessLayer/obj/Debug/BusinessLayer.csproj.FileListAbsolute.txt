@@ -1,0 +1,13 @@
+C:\Solutions C#\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Solutions C#\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Solutions C#\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Solutions C#\BusinessLayer\bin\Debug\DataAccessLayer.exe
+C:\Solutions C#\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Solutions C#\BusinessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Solutions C#\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Solutions C#\BusinessLayer\obj\Debug\BusinessLayer.Properties.Resources.resources
+C:\Solutions C#\BusinessLayer\obj\Debug\BusinessLayer.csproj.GenerateResource.cache
+C:\Solutions C#\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Solutions C#\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Solutions C#\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Solutions C#\BusinessLayer\obj\Debug\BusinessLayer.pdb

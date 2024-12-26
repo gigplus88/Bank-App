@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "Bank Presentation Layer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\BusinessLayer\\BusinessLayer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
